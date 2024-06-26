@@ -4,9 +4,8 @@ https://doi.org/10.48550/arXiv.2105.14447). This network has the ability to extr
 
 
 ## Preconditions:
-1. Use PAA for phase adaptive adjustment, which is implemented here using matlab; (code is not provided here)
-2. Use GAF to convert the data into two dimensions; (code is not provided here)
-
+1. Use PAA for phase adaptive adjustment, which is implemented here using matlab; 
+2. Use GAF to convert the data into two dimensions;
 ## Required libraries
 1. Install the required libraries for python, you can view the requirement.txt file here;
 
